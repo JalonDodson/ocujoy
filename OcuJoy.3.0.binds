@@ -17,7 +17,7 @@
 	<YawAxisRaw>
 		<Binding Device="vJoy" Key="Joy_RZAxis" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.04000000" />
+		<Deadzone Value="0.03000000" />
 	</YawAxisRaw>
 	<YawLeftButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -38,7 +38,7 @@
 	<RollAxisRaw>
 		<Binding Device="vJoy" Key="Joy_RYAxis" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.04000000" />
+		<Deadzone Value="0.03000000" />
 	</RollAxisRaw>
 	<RollLeftButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -51,7 +51,7 @@
 	<PitchAxisRaw>
 		<Binding Device="vJoy" Key="Joy_RXAxis" />
 		<Inverted Value="1" />
-		<Deadzone Value="0.04000000" />
+		<Deadzone Value="0.03000000" />
 	</PitchAxisRaw>
 	<PitchUpButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -77,7 +77,7 @@
 	<VerticalThrustRaw>
 		<Binding Device="vJoy" Key="Joy_YAxis" />
 		<Inverted Value="0" />
-		<Deadzone Value="0.08000000" />
+		<Deadzone Value="0.06500000" />
 	</VerticalThrustRaw>
 	<UpThrustButton>
 		<Primary Device="{NoDevice}" Key="" />
